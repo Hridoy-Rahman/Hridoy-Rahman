@@ -1,6 +1,6 @@
 ![I am a Web Developer](https://i.ibb.co/TgcmgSh/banner.png)
 ### Hi there 👋, My name is Hridoy Rahman
-#### I am a Web Developer
+#### I am a full stack Developer
 
 
 Skills:   REACT / JS / HTML / CSS/Express/ MongoDB
